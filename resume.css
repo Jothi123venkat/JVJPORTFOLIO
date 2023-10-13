@@ -1,0 +1,29 @@
+:root{
+
+    --dark--primary : #1b1f24;
+    --primary:#12bdff;
+}
+
+
+.resume
+{
+    width: 300px;
+    box-shadow: 100px;
+  
+
+    
+}
+/* .btn
+{
+  background-color: #1b1f24 !important;
+
+} */
+
+.home
+{
+    background-color: var(--dark--primary);
+    width: 60px;
+    color: #1b1f24;
+    
+    
+}
